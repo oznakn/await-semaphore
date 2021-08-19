@@ -1,0 +1,8 @@
+*.ts
+
+test.js
+test.js.map
+
+typings/
+typings.json
+tsconfig.json

@@ -1,6 +1,6 @@
 {
-  "name": "await-semaphore",
-  "version": "0.1.3",
+  "name": "enhanced-await-semaphore",
+  "version": "0.1.0",
   "description": "Awaitable semaphore/mutex",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/notenoughneon/await-semaphore.git"
+    "url": "git+https://github.com/oznakn/enhanced-await-semaphore.git"
   },
   "keywords": [
     "promise",
@@ -18,13 +18,15 @@
     "mutex",
     "typescript"
   ],
-  "author": "Emma Kuo",
+  "author": "Ozan Akın",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/notenoughneon/await-semaphore/issues"
+    "url": "https://github.com/oznakn/enhanced-await-semaphore/issues"
   },
-  "homepage": "https://github.com/notenoughneon/await-semaphore#readme",
+  "homepage": "https://github.com/oznakn/enhanced-await-semaphore#readme",
   "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "@types/node": "^16.4.12",
     "mocha": "^2.5.3",
     "typescript": "^1.8.10",
     "typings": "^1.3.1"
