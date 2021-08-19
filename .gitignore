@@ -38,6 +38,8 @@ jspm_packages
 typings
 
 index.js
+index.d.ts
 index.js.map
 test.js
+test.d.ts
 test.js.map
